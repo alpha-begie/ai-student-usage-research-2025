@@ -10,7 +10,7 @@ Comprehensive quantitative analysis of AI usage patterns among 2,847 U.S. colleg
 
 ## Files
 - `index.html` - Interactive web version of the research
-- `research-paper.pdf` - Complete research document
+- `./How_US_College_Students_Use_AI_2025_Begie_Duchrist_HEDIBLE.pdf` - Complete research document
 
 ## Author
 Begie-Duchrist HEDIBLE (Becky)  
