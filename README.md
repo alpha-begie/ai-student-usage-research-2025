@@ -14,7 +14,7 @@ Comprehensive quantitative analysis of AI usage patterns among 2,847 U.S. colleg
 
 ## Author
 Begie-Duchrist HEDIBLE (Becky)  
-Prepared for the Livingston Research AI Research & Publishing Challenge
+Prepared for Livingston Research AI Research & Publishing Challenge
 
 ## Citation
 Hedible, B. (2025). How U.S. college students use AI in 2025: A quantitative snapshot. 
