@@ -19,7 +19,7 @@ Prepared for Livingston Research AI Research & Publishing Challenge
 ## Citation
 Hedible, B. (2025). How U.S. college students use AI in 2025: A quantitative snapshot. 
 Livingston Research AI Research & Publishing Challenge. 
-Retrieved from https://alpha-begie.github.io
+Retrieved from https://alpha-begie.github.io/ai-student-usage-research-2025/
 
 ## Live Version
-View the interactive research: https://alpha-begie.github.io
+View the interactive research: https://alpha-begie.github.io/ai-student-usage-research-2025/
